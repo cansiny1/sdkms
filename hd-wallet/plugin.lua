@@ -1,4 +1,4 @@
--- Name: HD Wallet
+-- Name: HD Wallet1111
 -- Version: 1.1
 -- Description:##
 -- This plugin implements hierarchical deterministic wallets (or "HD Wallets") BIP0032 protocol.
